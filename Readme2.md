@@ -5,3 +5,4 @@ by dev...
 Git is free software distributed under the GPL.
 add GPL for 1.
 add GPL for 2.
+add GPL for 3.
